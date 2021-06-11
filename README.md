@@ -39,7 +39,7 @@ He restated these goals to Wired magazine in 2010: "The thing I really care abou
 
 I guess we could ... If you look at how much of our page is taken up with ads compared to the average search query. The average for us is a little less than 10 percent of the pages and the average for search is about 20 percent taken up with ads ... That's the simplest thing we could do. But we aren't like that. We make enough money. Right, I mean, we are keeping things running; we are growing at the rate we want to.
 
-![alt image](https://images.app.goo.gl/github-kSJG4pKRA8rTnRih9)
+![alt image](https://images.app.goo.gl/kSJG4pKRA8rTnRih9)
 
 
 
