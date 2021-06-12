@@ -11,13 +11,10 @@ Mark Elliot Zuckerberg ( born May 14, 1984) is an American media magnate, intern
 
 1.  Early life
 2.  Software developer
-	
-   2.1.	Early years
-   
-   2.2.	College years
+    2.1.  Early years
+    2.2.  College years
 3.  Career
-	
-   3.1.	Facebook
+    3.1.  Facebook
   
 ## Early life
 Zuckerberg began using computers and writing software in middle school. His father taught him Atari BASIC Programming in the 1990s, and later hired software developer David Newman to tutor him privately. Zuckerberg took a graduate course in the subject at Mercy College near his home while still in high school. In one program, since his father's dental practice was operated from their home, he built a software program he called "ZuckNet" that allowed all the computers between the house and dental office to communicate with each other. It is considered a "primitive" version of AOL's Instant Messenger, which came out the following year.
@@ -47,7 +44,9 @@ He restated these goals to Wired magazine in 2010: "The thing I really care abou
 
 I guess we could ... If you look at how much of our page is taken up with ads compared to the average search query. The average for us is a little less than 10 percent of the pages and the average for search is about 20 percent taken up with ads ... That's the simplest thing we could do. But we aren't like that. We make enough money. Right, I mean, we are keeping things running; we are growing at the rate we want to.
 
-![video about mark]
+#Biography of markzuckerberg....
+
+![video about mark](https://youtu.be/XXUIFPEDeVM)
 
 
 
