@@ -7,15 +7,15 @@ Mark Elliot Zuckerberg ( born May 14, 1984) is an American media magnate, intern
 
 
 
-contents:
+## contents:
 
-1. 	Early life
-2.	Software developer
+1.  Early life
+2.  Software developer
 	
    2.1.	Early years
    
-   4.2.	College years
-3.	Career
+   2.2.	College years
+3.  Career
 	
    3.1.	Facebook
   
@@ -46,6 +46,8 @@ Zuckerberg, Moskovitz and some friends moved to Palo Alto, California, in Silico
 He restated these goals to Wired magazine in 2010: "The thing I really care about is the mission, making the world open." Earlier, in April 2009, Zuckerberg sought the advice of former Netscape CFO Peter Currie about finan]cing strategies for Facebook. On July 21, 2010, Zuckerberg reported that the company reached the 500-million-user mark. When asked whether Facebook could earn more income from advertising as a result of its phenomenal growth, he explained:
 
 I guess we could ... If you look at how much of our page is taken up with ads compared to the average search query. The average for us is a little less than 10 percent of the pages and the average for search is about 20 percent taken up with ads ... That's the simplest thing we could do. But we aren't like that. We make enough money. Right, I mean, we are keeping things running; we are growing at the rate we want to.
+
+![video about mark]
 
 
 
