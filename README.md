@@ -39,7 +39,7 @@ He restated these goals to Wired magazine in 2010: "The thing I really care abou
 
 I guess we could ... If you look at how much of our page is taken up with ads compared to the average search query. The average for us is a little less than 10 percent of the pages and the average for search is about 20 percent taken up with ads ... That's the simplest thing we could do. But we aren't like that. We make enough money. Right, I mean, we are keeping things running; we are growing at the rate we want to.
 
-![image of markzuckerberg](https://i.insider.com/5bed3c39110d4c1e971b25b2)
+![image of markzuckerberg](https://www.bing.com/images/search?view=detailV2&ccid=yUKehKmY&id=4124C9C347AA6B7846612C3195EE976315C1573F&thid=OIP.yUKehKmYGZHndeiL-GgEeQHaEK&mediaurl=https%3A%2F%2Fwww.incimages.com%2Fuploaded_files%2Fimage%2F1920x1080%2FGettyImages-1201476988_448569.jpg&exph=1080&expw=1920&q=markzuckerberg&simid=608023775580601786&ck=7C26CE9416AE54417819FCB6023FEF8E&selectedindex=2&form=EX0023&ajaxhist=0&ajaxserp=0&vt=2&sim=15%2C16&adlt=demote&shtp=GetUrl&shid=5c067037-6690-41bf-8ecd-b17db95f85de&shtk=QSBUZWVuYWdlIE1hcmsgWnVja2VyYmVyZyBUdXJuZWQgRG93biBhbiBPZmZlciBGcm9tIEhpcyBEYWQuIEl0J3MgV2h5IC4uLg%3D%3D&shdk=Rm91bmQgb24gQmluZyBmcm9tIHd3dy5pbmMuY29t&shhk=gUh7Ji9XgdYJe6y02VXRwC7ar8A2DjH%2F2JhSOE2jCIg%3D&shth=OSH.cG4n6%252BAgIzZNBK0%252FRD4nrQ)
 
 
 
