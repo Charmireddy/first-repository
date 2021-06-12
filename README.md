@@ -11,11 +11,12 @@ contents:
 
 1. 	Early life
 2.	Software developer
-3.	
+	
    2.1.	Early years
-   2.2.	College years
+   
+   4.2.	College years
 3.	Career
-4.	
+	
    3.1.	Facebook
   
 ## Early life
