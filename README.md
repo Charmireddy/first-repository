@@ -46,7 +46,7 @@ I guess we could ... If you look at how much of our page is taken up with ads co
 
 #Biography of markzuckerberg....
 
-![video about mark](https://www.youtube.com/watch?v=XXUIFPEDeVM&t=26s)
+[video about mark](https://www.youtube.com/watch?v=XXUIFPEDeVM&t=26s)
 
 
 
