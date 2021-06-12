@@ -2,7 +2,7 @@
 ## About Markzuckerberg
 Mark Elliot Zuckerberg ( born May 14, 1984) is an American media magnate, internet entrepreneur, and philanthropist. He is known for co-founding Facebook, Inc. and serves as its chairman, chief executive officer, and controlling shareholder. He also is a co-founder of the solar sail spacecraft development project Breakthrough Starshot and serves as one of its board members.
 
-   ![image of markzuckerberg](https://github.com/Charmireddy/first-repository/blob/main/markzuckerberg.png)
+   ![image of markzuckerberg](https://github.com/Charmireddy/first-repository/blob/main/markzuckerberg.png/100/100)
 
 
 
